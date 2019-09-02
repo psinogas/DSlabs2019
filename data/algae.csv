@@ -1,4 +1,4 @@
-date,pH,Oxygen,Chloride,Nitrates,Ammonium,Orthophosphate,Phosphate,Chlorophyll,fluid_velocity ,river_size,season
+date,pH,Oxygen,Chloride,Nitrates,Ammonium,Orthophosphate,Phosphate,Chlorophyll,fluid_velocity,river_size,season
 30/09/2018,8.1,11.4,40.02,5.33,346.67,125.67,187.06,15.6,medium,small,autumn
 05/10/2018,8.06,9,55.35,10.42,233.7,58.22,97.58,10.5,medium,small,autumn
 07/10/2018,8.05,10.6,59.07,4.99,205.67,44.67,77.43,6.9,high,small,autumn
